@@ -5,7 +5,7 @@ Currently I´m working as a Software-Developer and Data Scientist for a medical 
 
 ## Projects
  ### Classification
- - [Brain Tumor Detection](https://github.com/dominik-roemer/brain_tumor_detection) - Classifing brain scan images taken by a MRT if they are showing a tumor or not with different CNN approaches. 
+ - [Brain Tumor Detection](https://github.com/dominik-roemer/brain_tumor_detection) - Classifing brain scan images taken by a MRT if they are showing a tumor or not with different CNN approaches. !!!WORK IN PROGRESS!!!
 
  - [Heart Attack Analysis](https://github.com/dominik-roemer/heart_attack_analysis) - Predicting the risk of a heart attack by investigating anamnesia data and measuret medical values from patients.
 
